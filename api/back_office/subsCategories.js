@@ -117,6 +117,8 @@ module.exports = function(router) {
                                 });
                         } else {
                             console.log(err);
+                            console.log(err);
+                            console.log(err);
                             return false;
                         }
                     });
